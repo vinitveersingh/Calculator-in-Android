@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cool Calc</string>
+    <string name="zeroNumeric">0</string>
+    <string name="oneNumeric">1</string>
+    <string name="twoNumeric">2</string>
+    <string name="threeNumeric">3</string>
+    <string name="fourNumeric">4</string>
+    <string name="fiveNumeric">5</string>
+    <string name="sixNumeric">6</string>
+    <string name="sevenNumeric">7</string>
+    <string name="eightNumeric">8</string>
+    <string name="nineNumeric">9</string>
+    <string name="clearCaps">CLEAR</string>
+</resources>
