@@ -243,6 +243,7 @@ public class CalcActivity extends Activity implements View.OnClickListener {
                     operationHandler();
                 } else {
                     operationName = "MULTIPLY";
+
                 }
                 break;
             }
