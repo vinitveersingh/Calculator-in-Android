@@ -1,2 +1,2 @@
 # Calculator-in-Android
-![](Images/calc.png)
+![](Images/calc.PNG)
